@@ -1,0 +1,25 @@
+html{
+    font-size:16px;
+}
+body{
+    font-family:Arial;
+    font-weight:400;
+    font-size:1.2205rem;
+    line-height:1.5;
+
+}
+h1{
+    color: hsl(194, 59%, 51%);
+    font-size:3rem;
+    text-align:center;
+}
+
+h2{
+    color:#f0f;
+}
+a{
+    color:aqua;
+}
+li{
+    font-size:1.25rem;
+}
